@@ -1,0 +1,3 @@
+$ react-native init complaintApp
+$ cd complaintApp
+$ git init
